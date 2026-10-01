@@ -17,7 +17,7 @@
 | Turma | 330 |
 | Estratégia paralela | Pthreads |
 | Plataforma testada | macOS |
-| Commit avaliado | [`HASH_DO_COMMIT`] |
+| Commit avaliado | `1d6ccab` |
 
 ## Resumo
 
