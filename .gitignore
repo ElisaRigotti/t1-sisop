@@ -1,0 +1,10 @@
+# Binários compilados
+conta-objetos-sequencial
+conta-objetos-paralelo
+tools/gerar_matriz
+
+# Arquivos de objeto
+*.o
+
+# Arquivos do macOS
+.DS_Store

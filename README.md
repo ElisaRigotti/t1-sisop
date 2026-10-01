@@ -13,11 +13,13 @@ Implementação sequencial e paralela da contagem de componentes conexos (objeto
 
 | Campo | Informação |
 |---|---|
-| Integrante 1 | [PREENCHER] |
-| Matrícula | [PREENCHER] |
-| Turma | [PREENCHER] |
+| Integrante 1 | Elisa Ely de Oliveira Rigotti |
+| Matrícula 1 | 24106421 |
+| Integrante 2 | Maria Júlia Escobar Correia de Melo |
+| Matrícula 2 | 23180253 |
+| Turma | 330 |
 
-## Compilacao
+## Compilação
 
 ```bash
 make          # compila ambas as versões
@@ -71,6 +73,10 @@ src/
 tests/
     obrigatorios/       (5 matrizes do enunciado)
     adicionais/         (matrizes extras para desempenho)
+tools/
+    gerar_matriz.c
+    benchmark.sh
+    gerar_graficos.py
 results/                (medições e gráficos)
 slides/
     apresentacao.pdf
@@ -86,6 +92,3 @@ slides/
 | 4 | 9 x 12 | 6 |
 | 5 | 12 x 12 | 7 |
 
-## Ferramentas e referências
-
-[PREENCHER conforme necessário]
