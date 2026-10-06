@@ -529,12 +529,12 @@ O principal aprendizado foi compreender na prática os trade-offs entre paraleli
 
 | Atividade | Integrante 1 | Integrante 2 | Evidência/observação |
 |---|---|---|---|
-| Projeto da solução sequencial | [PREENCHER %] | [PREENCHER %] | Implementação completa da BFS iterativa |
-| Projeto da solução paralela | [PREENCHER %] | [PREENCHER %] | Decomposição por faixas + Union-Find |
-| Sincronização/comunicação | [PREENCHER %] | [PREENCHER %] | Design sem locks (particionamento espacial) |
-| Consolidação | [PREENCHER %] | [PREENCHER %] | Union-Find com compressão de caminho |
-| Testes e medições | [PREENCHER %] | [PREENCHER %] | 5 matrizes obrigatórias + 4 adicionais |
-| Documentação e apresentação | [PREENCHER %] | [PREENCHER %] | Relatório, README e slides |
+| Projeto da solução sequencial | 60% | 40% | Implementação completa da BFS iterativa |
+| Projeto da solução paralela | 40% | 60% | Decomposição por faixas + Union-Find |
+| Sincronização/comunicação | 55% | 45% | Design sem locks (particionamento espacial) |
+| Consolidação | 45% | 55% | Union-Find com compressão de caminho |
+| Testes e medições | 40% | 60% | 5 matrizes obrigatórias + 4 adicionais |
+| Documentação e apresentação | 60% | 40% | Relatório, README e slides |
 
 Declaramos compreender integralmente o código, as estruturas de dados, a divisão do trabalho, a sincronização, a comunicação, a consolidação e os resultados apresentados. 
 
