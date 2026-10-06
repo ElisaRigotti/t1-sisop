@@ -32,7 +32,7 @@ make clean        # remove os binários
 
 Requisitos: compilador C compatível com C89/C90, suporte a Pthreads, Linux ou macOS.
 
-## Execucao
+## Execução
 
 ```bash
 # Versão sequencial
@@ -63,7 +63,7 @@ Arquivo texto com a primeira linha contendo `linhas colunas`, seguido pelos valo
 4. **Consolidação:** após todas as threads terminarem, a thread principal percorre as fronteiras entre faixas adjacentes e unifica rótulos com Union-Find (disjoint set union).
 5. **Contagem:** conta-se o número de raízes distintas no Union-Find.
 
-## Estrutura do repositorio
+## Estrutura do repositório
 
 ```
 README.md
