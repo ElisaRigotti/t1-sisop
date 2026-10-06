@@ -509,21 +509,21 @@ O principal aprendizado foi compreender na prática os trade-offs entre paraleli
 
 | Campo | Informação |
 |---|---|
-| Plataforma | [PREENCHER: YouTube / Vimeo] |
-| Link privado ou não listado | [PREENCHER URL] |
-| Duração | [PREENCHER MM:SS] |
-| Privacidade | [PREENCHER] |
+| Plataforma | [YouTube] |
+| Link privado ou não listado | [https://youtu.be/a6qPTX1Awys?si=ojgYFEYw6Uctn8TT] |
+| Duração | [10:40] |
+| Privacidade | Não listado |
 
 ### 13.1 Conteúdo do vídeo
 
-- [ ] Problema e estratégia escolhida.
-- [ ] Implementação sequencial e referência de correção.
-- [ ] Decomposição, processos/threads e sincronização.
-- [ ] Consolidação de objetos que atravessam regiões.
-- [ ] Demonstração executável.
-- [ ] Testes obrigatórios e adicionais.
-- [ ] Resultados de desempenho.
-- [ ] Conclusões.
+- [X] Problema e estratégia escolhida.
+- [X] Implementação sequencial e referência de correção.
+- [X] Decomposição, processos/threads e sincronização.
+- [X] Consolidação de objetos que atravessam regiões.
+- [X] Demonstração executável.
+- [X] Testes obrigatórios e adicionais.
+- [X] Resultados de desempenho.
+- [X] Conclusões.
 
 ## 14. Contribuições dos integrantes
 
@@ -572,10 +572,10 @@ Declaramos compreender integralmente o código, as estruturas de dados, a divis�
 - [x] O `Makefile` ou as instruções equivalentes permitem compilação reproduzível.
 - [x] As matrizes de teste e seus resultados estão incluídos.
 - [x] A análise de desempenho está incluída.
-- [ ] Os slides estão em `slides/apresentacao.pdf`.
-- [ ] O link do vídeo está acessível e o vídeo tem até 10 minutos.
+- [x] Os slides estão em `slides/apresentacao.pdf`.
+- [x] O link do vídeo está acessível e o vídeo tem até 10 minutos.
 - [x] Ferramentas, referências, bibliotecas e códigos externos foram identificados.
-- [ ] O hash do commit avaliado foi registrado neste relatório.
+- [x] O hash do commit avaliado foi registrado neste relatório.
 
 ## Apêndice A - Registro de comandos
 
