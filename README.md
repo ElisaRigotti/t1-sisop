@@ -1,6 +1,7 @@
 # Contagem Paralela de Objetos em Matriz Binária
 
 Trabalho prático da disciplina de Sistemas Operacionais (2026/2) — PUCRS, Escola Politécnica.
+LINK YOUTUBE: https://youtu.be/a6qPTX1Awys?si=ojgYFEYw6Uctn8TT
 
 ## Descrição
 
